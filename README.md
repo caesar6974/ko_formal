@@ -1,2 +1,2 @@
 # ko_formal
-Changes koream unformal sentence to a formal one
+Turns korean unformal sentence to a formal one
